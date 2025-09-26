@@ -10,7 +10,7 @@ const Home =() => {
                 <p className="mt-4 text-lg space-x-4 px-12 md:px-24 text-gray-300">dnfeof neefonefo fnfoen wnfonef fzonfeonf nzfdlfond jzsflenioe<br/> zsnfidnfidfen mld djxngfnes ndnlowinfio f eoneo nfnesiotesi nneneois nfndeofe</p>
         </div>
             <div className="mt-8 space-x-3 space-y-3">
-                <a href="jithendra Nagaraj Jalihal.pdf" download>
+                <a href="jithendraNagrajJalihal.pdf" download>
                 <button className="bg-gradient-to-r from-green-400 via-blue-500 to-purple-600 border-2 green  py-2 md:py-4 px-3 pr-4 pl-4 rounded-full cursor-pointer transition-transform durations-300 hover:scale-105">Download Resume</button>
                 </a>
                 <a href="/conact">
