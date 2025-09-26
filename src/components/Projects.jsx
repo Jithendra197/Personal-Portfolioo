@@ -11,7 +11,7 @@ const Projects =() => {
               
             <div className="container mx-auto">
                 <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-18">
-                         <div className="bg-gray-800 rounded-lg hover:shadow-lg transform transition-transform duration-300 hover:scale-105 pb-5">
+                         <div className="bg-gray-800 h-50 rounded-lg hover:shadow-lg transform transition-transform duration-300 hover:scale-105 pb-5">
                         <img className="w-full h-30 object-center rounded-lg" src={portfolio} alt=""></img>
                         <h3 className="mt-2 text-2xl pl-3 font-bold mb-2 text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500">
                          Portfolio Website
@@ -24,7 +24,7 @@ const Projects =() => {
                         </div> 
                         
                     </div>
-                         <div className="bg-gray-800  hover:shadow-lg transform transition-transform duration-300 hover:scale-105 rounded-lg pb-5">
+                         <div className="bg-gray-800 h-50 hover:shadow-lg transform transition-transform duration-300 hover:scale-105 rounded-lg pb-5">
                         <img className="w-full h-30 object-center rounded-lg" src={ecommerce} alt=""></img>
                         <h3 className="mt-2 text-2xl pl-3 font-bold mb-2 text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500">
                            E-Commerce Webpage
@@ -37,7 +37,7 @@ const Projects =() => {
                         </div>
                         
                     </div>
-                         <div className="bg-gray-800 hover:shadow-lg transform transition-transform duration-300 hover:scale-105 rounded-lg pb-5">
+                         <div className="bg-gray-800 h-50 hover:shadow-lg transform transition-transform duration-300 hover:scale-105 rounded-lg pb-5">
                         <img className="w-full h-30 object-center rounded-lg" src={images} alt=""></img>
                         <h3 className="mt-2 text-2xl pl-3 font-bold mb-2 text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500">
                            NewsApp- Top Headlines
@@ -48,7 +48,7 @@ const Projects =() => {
                             <a className="relative p-1 rounded-lg bg-white text-black" href="/" target="_blank" >Live View &rarr;</a>
                         </div>
                     </div>
-                         <div className="bg-gray-800 hover:shadow-lg transform transition-transform duration-300 hover:scale-105 rounded-lg pb-5">
+                         <div className="bg-gray-800 h-50 hover:shadow-lg transform transition-transform duration-300 hover:scale-105 rounded-lg pb-5">
                         <img className="w-full h-30 object-center rounded-lg" src={book} alt=""></img>
                         <h3 className="mt-2 text-2xl pl-3 font-bold mb-2 text-transparent bg-clip-text bg-gradient-to-r from-green-400 to-blue-500">
                            Book Finder Webpage
